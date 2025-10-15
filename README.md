@@ -32,11 +32,11 @@ This is the easiest way to start. It creates a new repository under your account
 4.  Navigate into your project directory and install the dependencies:
     ```bash
     cd your-new-repo
-    npm install
+    pnpm install
     ```
 5.  Start the development server:
     ```bash
-    npm run dev
+    pnpm run dev
     ```
 
 ### Alternative: Use `degit`
@@ -49,7 +49,7 @@ npx degit ivan-cxmpos/vite-template my-new-project
 
 # Navigate into your project and install dependencies
 cd my-new-project
-npm install
+pnpm install
 
 # Start the development server
-npm run dev
+pnpm run dev
